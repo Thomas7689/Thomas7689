@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Thomas7689
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Python
-- Learnt languages: Java
-- 💞️ I’m looking to collaborate on ...
+- Learnt languages: Java, java script, C#, python
 - 📫 How to reach me thomasvenables659@gmail.com
 
 <!---
