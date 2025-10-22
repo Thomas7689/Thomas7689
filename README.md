@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Thomas Venables
 
-> **Software Developer & AI Enthusiast** | **Robotics** | **Full-Stack Development** | **Machine Learning**
+> **Software Developer & AI Enthusiast** | **Full-Stack Development** | **Machine Learning**
 
-I'm a passionate developer who loves building innovative solutions. Currently pursuing my Bachelor of Computing while working on various projects in AI, web development, and robotics.
+I'm a passionate developer who loves building innovative solutions. Currently pursuing my Bachelor of Computing while working on various projects in AI, web development, and machine learning
 
 <p align="center">
   <a href="https://github.com/Thomas7689">
