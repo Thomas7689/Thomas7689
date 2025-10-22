@@ -34,7 +34,7 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 
 ### 🗣️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs" />
 </p>
 
 ### 🎨 Frontend
@@ -44,12 +44,12 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql,mysql" />
 </p>
 
 ### 🤖 AI/ML
@@ -61,7 +61,7 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,arduino,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="48" height="48" alt="Render"/>
 </p>
 
