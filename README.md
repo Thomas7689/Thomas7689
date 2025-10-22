@@ -6,10 +6,10 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 
 <p align="center">
   <a href="https://github.com/Thomas7689">
-    <img src="https://img.shields.io/github/followers/GideonVermeulen?style=for-the-badge&logo=github&color=blueviolet&labelColor=000000" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Thomas7689?style=for-the-badge&logo=github&color=blueviolet&labelColor=000000" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/GideonVermeulen">
-    <img src="https://komarev.com/ghpvc/?username=GideonVermeulen&style=for-the-badge&color=blueviolet&labelColor=000000" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Thomas7689&style=for-the-badge&color=blueviolet&labelColor=000000" alt="Profile Views"/>
   </a>
 </p>
 
